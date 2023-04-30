@@ -4,6 +4,7 @@ import './App.css';
 import Header from './components/Headers/Header';
 import MiOrg from './components/MiOrg/index.js';
 import Equipo from './components/Equipo/index.js';
+import Colaborador from './components/Colaborador/index.js';
 function App() {
   
   const [mostrarFormulario, actulizarMostrar] = useState(true)
@@ -11,6 +12,10 @@ function App() {
   const cambiarMostrar = () =>{
     actulizarMostrar(!mostrarFormulario)
   } 
+
+  const registrarColaborador = (colaborador) => {
+    console.log('Nuevo colaborador', colaborador)
+  }
 
   // Mi lista de equipos
 
@@ -65,7 +70,13 @@ function App() {
     <div>
       <Header/>
       { /*mostrarFormulario /*=== true ? <Formulario /> : <></>*/}
-      {mostrarFormulario && <Formulario equipos={equipos.map((equipo) => equipo.titulo)}/>}
+      {
+        mostrarFormulario && <Formulario 
+            equipos={equipos.map((equipo) => equipo.titulo)}/>}
+            registrarColaborador = {registrarColaborador}
+      
+      
+      
       <MiOrg cambiarMostrar={cambiarMostrar}/>
       {
         equipos.map((equipo) => <Equipo datos={equipo} key={equipo.titulo}/>)

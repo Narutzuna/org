@@ -1,6 +1,6 @@
 import './Colaborador.css'
 
-const Colaborador = () => {
+const Colaborador = (props) => {
     return <div className='colaborador'>
         <div className='encabezado'>
             <img src='https://avatars.githubusercontent.com/u/97703657?v=4'></img>

@@ -12,6 +12,8 @@ const Equipo = (props) => {
         <div className="colaboradores">
             <Colaborador/>
             <Colaborador/>
+            <Colaborador/>
+            <Colaborador/>
         </div>
     </section>
 }
