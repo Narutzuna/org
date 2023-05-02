@@ -7,6 +7,7 @@
 .colaborador {
     width: 280px;
     margin-bottom: 24px;
+    position: relative;
 }
 
 .colaborador .encabezado{
@@ -46,4 +47,10 @@
     padding: 0 24px;
     font-weight: 400;
     margin: 0;
+}
+
+.eliminar{
+    position: absolute;
+    right: 12px;
+    top: 8px;
 }
