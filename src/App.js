@@ -23,7 +23,7 @@ function App() {
       id:uuidv4(),
       nombre: 'Elisa Thierry', 
       puesto: 'Maestra', 
-      foto: 'https://scontent.fmex36-1.fna.fbcdn.net/v/t1.18169-9/12301734_10201153032103988_264295423041209329_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFWrhH321gvttQ_vNiaPTc8oX5IBiMtElChfkgGIy0SUM7oeRg4fcf5tQZxx05O9sVx9kSuR0FWKtMKkfRDPDBR&_nc_ohc=dA0QOh0kX6QAX_dJA8J&_nc_ht=scontent.fmex36-1.fna&oh=00_AfAubmHCBN2HL8kpGSEX4MCX88LIgarNh8SU45P3f9-4Gg&oe=64851633', 
+      foto: 'https://scontent.fmex23-1.fna.fbcdn.net/v/t1.18169-9/10559861_4446572978524_2759400337987422438_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFZYFphWAOaGyO5Oi_9pdWgi1Q-1E7vRIWLVD7UTu9EhQed1IGAfjIK06ZgaLrOvJ5BFhzZlFyeeXgORZTBOfM2&_nc_ohc=iAwnAb-8is0AX_w4Nvr&_nc_ht=scontent.fmex23-1.fna&oh=00_AfAfGpdiegQWNzykVqCnYaGyrJtREgkj8vd0K74TkwehIA&oe=648541C2', 
       equipo: 'Front End',
       fav: false
     },
@@ -55,7 +55,7 @@ function App() {
       id:uuidv4(),
       nombre: 'Paloma Saotome', 
       puesto: 'Maestra', 
-      foto: 'https://scontent.fmex36-1.fna.fbcdn.net/v/t1.6435-9/68287166_214163142882740_3176060034001928192_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEPh7_B9yxmTXOTq_5c0zB5B2Ahht_nhOwHYCGG3-eE7EKouf3ZaBSXikRKpwrUKotYOOp49OyaBobZvNyCVS5K&_nc_ohc=rrf2U8jwM6EAX-uzZdp&_nc_ht=scontent.fmex36-1.fna&oh=00_AfB5fITbs9tUw_fm5XP3shdHsVX2xWH6OWef2g4yxawhqQ&oe=64852361', 
+      foto: 'https://scontent.fmex23-1.fna.fbcdn.net/v/t39.30808-6/281890853_189542370063385_1430890645170501990_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_eui2=AeE3oLau65Zu7hhJMEYVy2jBhCV_HBsWO7iEJX8cGxY7uMrrDI1rfrel3xNDSxK2NAdhQqxx3mFsqHfaBkrgoF4h&_nc_ohc=nYNZhsozLjkAX__9X_p&_nc_ht=scontent.fmex23-1.fna&oh=00_AfB28IVe4DKjzOOLzbXtqDZ1r43k7ZJoReBCF3HQ-ulHxg&oe=6462997D', 
       equipo: 'Móvil',
       fav: false
     },
