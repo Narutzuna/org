@@ -23,7 +23,7 @@ function App() {
       id:uuidv4(),
       nombre: 'Elisa Thierry', 
       puesto: 'Maestra', 
-      foto: 'https://scontent.fmex23-1.fna.fbcdn.net/v/t1.18169-9/10559861_4446572978524_2759400337987422438_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFZYFphWAOaGyO5Oi_9pdWgi1Q-1E7vRIWLVD7UTu9EhQed1IGAfjIK06ZgaLrOvJ5BFhzZlFyeeXgORZTBOfM2&_nc_ohc=iAwnAb-8is0AX_w4Nvr&_nc_ht=scontent.fmex23-1.fna&oh=00_AfAfGpdiegQWNzykVqCnYaGyrJtREgkj8vd0K74TkwehIA&oe=648541C2', 
+      foto: 'https://scontent.fmex26-1.fna.fbcdn.net/v/t39.30808-6/311738444_10209819000187774_5355699867272414680_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=174925&_nc_eui2=AeECWPly0qSqeklFTJWBNfcPEICNffJXFZ4QgI198lcVnveCZMRb7CHLwNBJVUca99Vhj_AGztgskg5YmNcapyul&_nc_ohc=PlURDu4VZygAX8paJjA&_nc_ht=scontent.fmex26-1.fna&oh=00_AfBBS0qDqI5R_IzUz4N2ZYFko-YeJAqpxj1Dv0aRrNYtJQ&oe=64630F4E', 
       equipo: 'Front End',
       fav: false
     },
