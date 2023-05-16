@@ -23,7 +23,7 @@ function App() {
       id:uuidv4(),
       nombre: 'Elisa Thierry', 
       puesto: 'Maestra', 
-      foto: '../public/img/311738444_10209819000187774_5355699867272414680_n.jpg', 
+      foto: 'https://scontent.fmex26-1.fna.fbcdn.net/v/t39.30808-6/311738444_10209819000187774_5355699867272414680_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=174925&_nc_eui2=AeECWPly0qSqeklFTJWBNfcPEICNffJXFZ4QgI198lcVnveCZMRb7CHLwNBJVUca99Vhj_AGztgskg5YmNcapyul&_nc_ohc=iUDOyg1BJQAAX-mymIo&_nc_ht=scontent.fmex26-1.fna&oh=00_AfA6OB8NbUbLz8gZ-r_1uXAMzUM9MCawvucaoz9ZSrS94A&oe=6468FE0E', 
       equipo: 'Front End',
       fav: false
     },
@@ -31,7 +31,7 @@ function App() {
       id:uuidv4(),
       nombre: 'Ana Lizbeth', 
       puesto: 'Supervisora', 
-      foto: '../public/img/Ana.jpg', 
+      foto: 'https://scontent.fmex23-1.fna.fbcdn.net/v/t39.30808-6/331662084_730588248702360_692516267045544670_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHO6WmXE-d-EDGsSDDTRidA47qzKcIYIYXjurMpwhghhUuKStWerKP8C_t-vn1nAFBY8eH-liW-4VlbNlxspTeG&_nc_ohc=IpFZytSm-AAAX_ktv43&_nc_ht=scontent.fmex23-1.fna&oh=00_AfBpXEfjOHfKz2W3VTSvxiEZyPNpEIjt6XoVAAc3gRuYXw&oe=64679789', 
       equipo: 'Devops',
       fav: false
     },
@@ -55,7 +55,7 @@ function App() {
       id:uuidv4(),
       nombre: 'Paloma Saotome', 
       puesto: 'Maestra', 
-      foto: '../public/img/Paloma.jpg', 
+      foto: 'https://scontent.fmex23-1.fna.fbcdn.net/v/t39.30808-6/281890853_189542370063385_1430890645170501990_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_eui2=AeE3oLau65Zu7hhJMEYVy2jBhCV_HBsWO7iEJX8cGxY7uMrrDI1rfrel3xNDSxK2NAdhQqxx3mFsqHfaBkrgoF4h&_nc_ohc=HVJZZ8FCKGsAX8Pr2b3&_nc_ht=scontent.fmex23-1.fna&oh=00_AfAPSIFjZZ6xa9CuL78GYSeypp5KmS_ZP3TA5tPaH9Wd9w&oe=6468883D', 
       equipo: 'Móvil',
       fav: false
     },
